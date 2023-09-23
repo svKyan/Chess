@@ -1,5 +1,5 @@
 <p>
-Note: This project is *very* _incomplete_. It does not even support all basic operations and is a mess.
+Note: This project is very incomplete. It does not even support all basic operations and is a mess.
 </p>
 
 ## Installation guide
